@@ -1,0 +1,5 @@
+print('========DESAFIO 02==========')
+dia = input('dia =')
+mes = input('mes =')
+ano = input('ano =')
+print('Voce naceu do dia', dia, 'de mes de', mes, 'de', ano, '. correto ',)

@@ -1,3 +1,4 @@
+""" 
 n = bool(input('Digite um valor: '))
 print(n)
 
@@ -5,7 +6,9 @@ n = float(input('Digite um valor: '))
 print(n)
 
 n = str(input('Digite um valor: '))
-print(n)
+print(n) 
+
+"""
 
 carater1 = bool(input('digite algo : '))
 print(carater1)

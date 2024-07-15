@@ -1,2 +1,5 @@
 n = int(input('digite um valor: '))
-print('n ou q2 3 \n 4',n**2, n**3, n**4)
+d = n * 2 
+t = n * 3 
+m = n ** (1/2)
+print('o drobo {} o triplo {} e a rais quarada {}'.format(d, t, m))

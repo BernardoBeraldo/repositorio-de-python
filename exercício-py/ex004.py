@@ -1,6 +1,0 @@
-caráter1 = bool(input('digite algo : '))
-print(caráter1.isnumeric)
-caráter2 = bool(input('digite algo : '))
-print(caráter2.isalpha)
-caráter3 = bool(input('digite algo : '))
-print(caráter3.isprintable)

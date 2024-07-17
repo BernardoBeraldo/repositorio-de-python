@@ -1,3 +1,4 @@
+# Exercício Python 8: Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 m = float(input('digite médida em metros: '))
 mm = m * 100
 cm = m * 10

@@ -1,3 +1,4 @@
+# Exercício Python 3: Crie um programa que leia dois números e mostre a soma entre eles.
 v1 = int(input('digite um numero racionar: '))
 print(v1)
 v1= float(input('digite um nummero real: {}'.format(v1,) ))

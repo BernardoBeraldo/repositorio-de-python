@@ -1,4 +1,5 @@
-# Exercício  Python 4:  Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+# Exercício  Python 4:  
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 v1 = int(input('digite um numero racionar: '))
 print(v1)
 v1= float(input('digite um nummero real: {}'.format(v1,) ))
